@@ -1,1 +1,5 @@
-Printf group project
+Group project on printf
+
+TEAM MEMBERS:
+
+1. MELVIN CONFIDENCE ENWEREM
